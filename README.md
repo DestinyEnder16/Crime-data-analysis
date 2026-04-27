@@ -71,3 +71,7 @@ Crime Data Analysis/
 - matplotlib
 
 See `requirements.txt` for version specifiers.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
